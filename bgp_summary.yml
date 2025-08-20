@@ -1,0 +1,17 @@
+---
+- name: Get BGP summary from Cisco router
+  hosts: cisco_router
+  gather_facts: no
+  connection: network_cli
+
+  tasks:
+    - name: Run show ip bgp summary
+      ios_command:
+        commands:
+          - show ip bgp summary
+      register: bgp_output
+
+    - name: Save BGP output to file
+      copy:
+        content: "{{ bgp_output.stdout[0] }}"
+        dest: "/tmp/bgp_summary_output.txt"
