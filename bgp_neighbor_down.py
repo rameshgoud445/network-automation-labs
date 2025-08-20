@@ -23,7 +23,7 @@ try:
     print("\n📋 Full BGP Summary Output:\n")
     print(bgp_output)
 
-    print("\n🔍 BGP Neighbors that are Down:\n")
+    print("\n🔍 BGP Neighbors which are Down:\n")
 
     # Skip lines until we find the header
     lines = bgp_output.strip().splitlines()
