@@ -1,0 +1,318 @@
+2026-02-28 09:27:16,337 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 09:27:16,762 - INFO - Authentication (password) successful!
+2026-02-28 09:27:17,218 - WARNING - 192.168.12.130 - OSPF ISSUE
+2026-02-28 09:27:17,332 - WARNING - 192.168.12.130 - BGP DOWN
+2026-02-28 09:27:20,425 - ERROR - 192.168.12.131 - Timeout
+2026-02-28 09:27:20,514 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 09:27:21,009 - INFO - Authentication (password) successful!
+2026-02-28 09:27:21,475 - WARNING - 192.168.12.132 - OSPF ISSUE
+2026-02-28 09:27:21,578 - WARNING - 192.168.12.132 - BGP DOWN
+2026-02-28 09:27:21,694 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 09:27:22,644 - INFO - Authentication (password) successful!
+2026-02-28 09:27:23,626 - WARNING - 192.168.12.133 - OSPF ISSUE
+2026-02-28 09:27:23,730 - WARNING - 192.168.12.133 - BGP DOWN
+2026-02-28 09:35:00,161 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 09:35:00,632 - INFO - Authentication (password) successful!
+2026-02-28 09:35:01,087 - WARNING - 192.168.12.130 - OSPF ISSUE
+2026-02-28 09:35:01,190 - WARNING - 192.168.12.130 - BGP DOWN
+2026-02-28 09:35:04,297 - ERROR - 192.168.12.131 - Timeout
+2026-02-28 09:35:04,357 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 09:35:04,865 - INFO - Authentication (password) successful!
+2026-02-28 09:35:05,547 - WARNING - 192.168.12.132 - OSPF ISSUE
+2026-02-28 09:35:05,650 - WARNING - 192.168.12.132 - BGP DOWN
+2026-02-28 09:35:05,728 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 09:35:06,245 - INFO - Authentication (password) successful!
+2026-02-28 09:35:06,711 - WARNING - 192.168.12.133 - OSPF ISSUE
+2026-02-28 09:35:06,814 - WARNING - 192.168.12.133 - BGP DOWN
+2026-02-28 09:35:37,213 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 09:35:38,086 - INFO - Authentication (password) successful!
+2026-02-28 09:35:38,543 - WARNING - 192.168.12.130 - OSPF ISSUE
+2026-02-28 09:35:38,647 - WARNING - 192.168.12.130 - BGP DOWN
+2026-02-28 09:35:41,737 - ERROR - 192.168.12.131 - Unexpected error TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 192.168.12.131:22
+
+
+2026-02-28 09:35:41,785 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 09:35:42,272 - INFO - Authentication (password) successful!
+2026-02-28 09:35:43,008 - WARNING - 192.168.12.132 - OSPF ISSUE
+2026-02-28 09:35:43,499 - WARNING - 192.168.12.132 - BGP DOWN
+2026-02-28 09:35:43,807 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 09:35:44,522 - INFO - Authentication (password) successful!
+2026-02-28 09:35:44,988 - WARNING - 192.168.12.133 - OSPF ISSUE
+2026-02-28 09:35:45,798 - WARNING - 192.168.12.133 - BGP DOWN
+2026-02-28 09:36:17,999 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 09:36:18,421 - INFO - Authentication (password) successful!
+2026-02-28 09:36:18,888 - WARNING - 192.168.12.130 - OSPF ISSUE
+2026-02-28 09:36:19,230 - WARNING - 192.168.12.130 - BGP DOWN
+2026-02-28 09:36:22,313 - ERROR - 192.168.12.131 - Timeout
+2026-02-28 09:36:23,392 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 09:36:24,167 - INFO - Authentication (password) successful!
+2026-02-28 09:36:24,640 - WARNING - 192.168.12.132 - OSPF ISSUE
+2026-02-28 09:36:24,743 - WARNING - 192.168.12.132 - BGP DOWN
+2026-02-28 09:36:24,828 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 09:36:25,335 - INFO - Authentication (password) successful!
+2026-02-28 09:36:26,296 - WARNING - 192.168.12.133 - OSPF ISSUE
+2026-02-28 09:36:26,411 - WARNING - 192.168.12.133 - BGP DOWN
+2026-02-28 09:37:14,557 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 09:37:14,983 - INFO - Authentication (password) successful!
+2026-02-28 09:37:15,696 - WARNING - 192.168.12.130 - OSPF ISSUE
+2026-02-28 09:37:16,039 - INFO - 192.168.12.130 - BGP OK
+2026-02-28 09:37:19,594 - ERROR - 192.168.12.131 - Timeout
+2026-02-28 09:37:19,640 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 09:37:20,126 - INFO - Authentication (password) successful!
+2026-02-28 09:37:20,809 - WARNING - 192.168.12.132 - OSPF ISSUE
+2026-02-28 09:37:20,923 - INFO - 192.168.12.132 - BGP OK
+2026-02-28 09:37:20,999 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 09:37:21,755 - INFO - Authentication (password) successful!
+2026-02-28 09:37:22,245 - WARNING - 192.168.12.133 - OSPF ISSUE
+2026-02-28 09:37:22,726 - INFO - 192.168.12.133 - BGP OK
+2026-02-28 09:57:05,937 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 09:57:06,373 - INFO - Authentication (password) successful!
+2026-02-28 09:57:07,077 - WARNING - 192.168.12.130 - OSPF ISSUE
+2026-02-28 09:57:07,890 - INFO - 192.168.12.130 - BGP OK
+2026-02-28 09:57:11,017 - ERROR - 192.168.12.131 - Timeout
+2026-02-28 09:57:11,061 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 09:57:11,569 - INFO - Authentication (password) successful!
+2026-02-28 09:57:12,284 - WARNING - 192.168.12.132 - OSPF ISSUE
+2026-02-28 09:57:12,399 - INFO - 192.168.12.132 - BGP OK
+2026-02-28 09:57:12,715 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 09:57:13,431 - INFO - Authentication (password) successful!
+2026-02-28 09:57:13,903 - WARNING - 192.168.12.133 - OSPF ISSUE
+2026-02-28 09:57:14,005 - INFO - 192.168.12.133 - BGP OK
+2026-02-28 09:57:36,491 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 09:57:37,340 - INFO - Authentication (password) successful!
+2026-02-28 09:57:37,806 - WARNING - 192.168.12.130 - OSPF ISSUE
+2026-02-28 09:57:37,909 - WARNING - 192.168.12.130 - BGP DOWN
+2026-02-28 09:57:41,033 - ERROR - 192.168.12.131 - Timeout
+2026-02-28 09:57:41,081 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 09:57:41,796 - INFO - Authentication (password) successful!
+2026-02-28 09:57:42,285 - WARNING - 192.168.12.132 - OSPF ISSUE
+2026-02-28 09:57:42,414 - WARNING - 192.168.12.132 - BGP DOWN
+2026-02-28 09:57:42,498 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 09:57:42,986 - INFO - Authentication (password) successful!
+2026-02-28 09:57:43,689 - WARNING - 192.168.12.133 - OSPF ISSUE
+2026-02-28 09:57:43,792 - WARNING - 192.168.12.133 - BGP DOWN
+2026-02-28 11:57:56,296 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 11:57:56,957 - INFO - Authentication (password) successful!
+2026-02-28 11:57:58,474 - WARNING - 192.168.12.130 - OSPF ISSUE
+2026-02-28 11:57:58,956 - WARNING - 192.168.12.130 - BGP DOWN
+2026-02-28 11:58:02,089 - ERROR - 192.168.12.131 - Timeout
+2026-02-28 11:58:02,133 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 11:58:02,896 - INFO - Authentication (password) successful!
+2026-02-28 11:58:03,361 - WARNING - 192.168.12.132 - OSPF ISSUE
+2026-02-28 11:58:03,465 - WARNING - 192.168.12.132 - BGP DOWN
+2026-02-28 11:58:03,771 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 11:58:04,279 - INFO - Authentication (password) successful!
+2026-02-28 11:58:05,713 - WARNING - 192.168.12.133 - OSPF ISSUE
+2026-02-28 11:58:05,827 - WARNING - 192.168.12.133 - BGP DOWN
+2026-02-28 12:44:36,902 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 12:44:38,080 - INFO - Authentication (password) successful!
+2026-02-28 12:44:38,776 - WARNING - 192.168.12.130 - OSPF ISSUE
+2026-02-28 12:44:38,891 - WARNING - 192.168.12.130 - BGP DOWN
+2026-02-28 12:44:42,026 - ERROR - 192.168.12.131 - Timeout
+2026-02-28 12:44:42,075 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 12:44:42,604 - INFO - Authentication (password) successful!
+2026-02-28 12:44:43,343 - WARNING - 192.168.12.132 - OSPF ISSUE
+2026-02-28 12:44:43,458 - WARNING - 192.168.12.132 - BGP DOWN
+2026-02-28 12:44:43,519 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 12:44:44,216 - INFO - Authentication (password) successful!
+2026-02-28 12:44:44,945 - WARNING - 192.168.12.133 - OSPF ISSUE
+2026-02-28 12:44:45,058 - WARNING - 192.168.12.133 - BGP DOWN
+2026-02-28 12:46:25,628 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 12:46:26,291 - INFO - Authentication (password) successful!
+2026-02-28 12:46:27,228 - WARNING - 192.168.12.130 - OSPF ISSUE
+2026-02-28 12:46:27,344 - WARNING - 192.168.12.130 - BGP DOWN
+2026-02-28 12:46:30,441 - ERROR - 192.168.12.131 - Unexpected error TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 192.168.12.131:22
+
+
+2026-02-28 12:46:30,500 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 12:46:31,031 - INFO - Authentication (password) successful!
+2026-02-28 12:46:32,032 - WARNING - 192.168.12.132 - OSPF ISSUE
+2026-02-28 12:46:32,136 - WARNING - 192.168.12.132 - BGP DOWN
+2026-02-28 12:46:32,226 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-02-28 12:46:32,735 - INFO - Authentication (password) successful!
+2026-02-28 12:46:33,934 - WARNING - 192.168.12.133 - OSPF ISSUE
+2026-02-28 12:46:34,425 - WARNING - 192.168.12.133 - BGP DOWN
+2026-05-31 11:45:27,094 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-31 11:45:27,815 - INFO - Authentication (password) successful!
+2026-05-31 11:45:29,540 - WARNING - 192.168.12.130 - OSPF ISSUE
+2026-05-31 11:45:29,649 - WARNING - 192.168.12.130 - BGP DOWN
+2026-05-31 11:45:29,734 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-31 11:45:30,258 - INFO - Authentication (password) successful!
+2026-05-31 11:45:30,745 - INFO - 192.168.12.131 - OSPF OK
+2026-05-31 11:45:30,869 - WARNING - 192.168.12.131 - BGP DOWN
+2026-05-31 11:45:30,946 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-31 11:45:31,461 - INFO - Authentication (password) successful!
+2026-05-31 11:45:31,909 - INFO - 192.168.12.132 - OSPF OK
+2026-05-31 11:45:32,032 - WARNING - 192.168.12.132 - BGP DOWN
+2026-05-31 11:45:32,107 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-31 11:45:32,550 - INFO - Authentication (password) successful!
+2026-05-31 11:45:33,479 - INFO - 192.168.12.133 - OSPF OK
+2026-05-31 11:45:33,596 - WARNING - 192.168.12.133 - BGP DOWN
+2026-05-31 12:55:38,732 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-31 12:55:39,170 - INFO - Authentication (password) successful!
+2026-05-31 12:55:41,209 - WARNING - 192.168.12.130 - OSPF ISSUE
+2026-05-31 12:55:41,341 - WARNING - 192.168.12.130 - BGP DOWN
+2026-05-31 12:55:41,404 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-31 12:55:42,153 - INFO - Authentication (password) successful!
+2026-05-31 12:55:42,610 - INFO - 192.168.12.131 - OSPF OK
+2026-05-31 12:55:42,727 - WARNING - 192.168.12.131 - BGP DOWN
+2026-05-31 12:55:42,800 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-31 12:55:44,221 - INFO - Authentication (password) successful!
+2026-05-31 12:55:45,180 - INFO - 192.168.12.132 - OSPF OK
+2026-05-31 12:55:45,311 - WARNING - 192.168.12.132 - BGP DOWN
+2026-05-31 12:55:45,408 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-31 12:55:46,704 - INFO - Authentication (password) successful!
+2026-05-31 12:55:47,435 - INFO - 192.168.12.133 - OSPF OK
+2026-05-31 12:55:47,929 - WARNING - 192.168.12.133 - BGP DOWN
+2026-05-31 12:56:13,035 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-31 12:56:13,463 - INFO - Authentication (password) successful!
+2026-05-31 12:56:13,938 - WARNING - 192.168.12.130 - OSPF ISSUE
+2026-05-31 12:56:14,655 - WARNING - 192.168.12.130 - BGP DOWN
+2026-05-31 12:56:14,722 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-31 12:56:15,433 - INFO - Authentication (password) successful!
+2026-05-31 12:56:15,923 - INFO - 192.168.12.131 - OSPF OK
+2026-05-31 12:56:16,027 - WARNING - 192.168.12.131 - BGP DOWN
+2026-05-31 12:56:16,105 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-31 12:56:16,597 - INFO - Authentication (password) successful!
+2026-05-31 12:56:17,811 - INFO - 192.168.12.132 - OSPF OK
+2026-05-31 12:56:17,927 - WARNING - 192.168.12.132 - BGP DOWN
+2026-05-31 12:56:17,997 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-31 12:56:18,425 - INFO - Authentication (password) successful!
+2026-05-31 12:56:19,061 - INFO - 192.168.12.133 - OSPF OK
+2026-05-31 12:56:19,166 - WARNING - 192.168.12.133 - BGP DOWN
+2026-05-31 12:58:05,149 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-31 12:58:05,579 - INFO - Authentication (password) successful!
+2026-05-31 12:58:06,313 - WARNING - 192.168.12.130 - OSPF ISSUE
+2026-05-31 12:58:06,418 - WARNING - 192.168.12.130 - BGP DOWN
+2026-05-31 12:58:06,481 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-31 12:58:06,998 - INFO - Authentication (password) successful!
+2026-05-31 12:58:07,470 - INFO - 192.168.12.131 - OSPF OK
+2026-05-31 12:58:07,585 - WARNING - 192.168.12.131 - BGP DOWN
+2026-05-31 12:58:07,669 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-31 12:58:08,434 - INFO - Authentication (password) successful!
+2026-05-31 12:58:08,895 - INFO - 192.168.12.132 - OSPF OK
+2026-05-31 12:58:08,999 - WARNING - 192.168.12.132 - BGP DOWN
+2026-05-31 12:58:09,078 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-31 12:58:09,541 - INFO - Authentication (password) successful!
+2026-05-31 12:58:10,023 - INFO - 192.168.12.133 - OSPF OK
+2026-05-31 12:58:10,128 - WARNING - 192.168.12.133 - BGP DOWN
+2026-07-21 12:41:25,368 - ERROR - 192.168.12.130 - Timeout
+2026-07-21 12:41:28,440 - ERROR - 192.168.12.131 - Timeout
+2026-07-21 12:41:31,512 - ERROR - 192.168.12.132 - Timeout
+2026-07-21 12:41:34,584 - ERROR - 192.168.12.133 - Timeout
+2026-07-21 12:41:41,944 - ERROR - 192.168.12.130 - Timeout
+2026-07-21 12:41:45,016 - ERROR - 192.168.12.131 - Timeout
+2026-07-21 12:41:48,088 - ERROR - 192.168.12.132 - Timeout
+2026-07-21 12:41:51,160 - ERROR - 192.168.12.133 - Timeout
+2026-07-21 12:42:12,152 - ERROR - 192.168.12.130 - Timeout
+2026-07-21 12:42:15,224 - ERROR - 192.168.12.131 - Timeout
+2026-07-21 12:42:18,296 - ERROR - 192.168.12.132 - Timeout
+2026-07-21 12:52:18,361 - ERROR - 192.168.12.130 - Timeout
+2026-07-21 12:52:21,432 - ERROR - 192.168.12.131 - Timeout
+2026-07-21 12:52:24,504 - ERROR - 192.168.12.132 - Timeout
+2026-07-21 12:52:27,576 - ERROR - 192.168.12.133 - Timeout
+2026-07-21 12:53:12,824 - ERROR - 192.168.12.130 - Unexpected error TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 192.168.12.130:22
+
+
+2026-07-21 12:53:15,897 - ERROR - 192.168.12.131 - Unexpected error TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 192.168.12.131:22
+
+
+2026-07-21 12:53:18,968 - ERROR - 192.168.12.132 - Unexpected error TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 192.168.12.132:22
+
+
+2026-07-21 12:53:22,040 - ERROR - 192.168.12.133 - Unexpected error TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 192.168.12.133:22
+
+
+2026-07-21 12:54:21,432 - ERROR - 192.168.12.130 - Timeout
+2026-07-21 12:54:24,504 - ERROR - 192.168.12.131 - Timeout
+2026-07-21 12:54:27,576 - ERROR - 192.168.12.132 - Timeout
+2026-07-21 12:54:30,648 - ERROR - 192.168.12.133 - Timeout
+2026-07-21 12:54:51,781 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-07-21 12:54:52,230 - INFO - Authentication (password) successful!
+2026-07-21 12:54:52,702 - WARNING - 192.168.12.130 - OSPF ISSUE
+2026-07-21 12:54:52,806 - WARNING - 192.168.12.130 - BGP DOWN
+2026-07-21 12:54:54,904 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-07-21 12:54:55,411 - INFO - Authentication (password) successful!
+2026-07-21 12:54:55,872 - WARNING - 192.168.12.131 - OSPF ISSUE
+2026-07-21 12:54:55,987 - WARNING - 192.168.12.131 - BGP DOWN
+2026-07-21 12:54:58,079 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-07-21 12:54:58,852 - INFO - Authentication (password) successful!
+2026-07-21 12:54:59,330 - WARNING - 192.168.12.132 - OSPF ISSUE
+2026-07-21 12:54:59,446 - WARNING - 192.168.12.132 - BGP DOWN
+2026-07-21 12:55:01,519 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-07-21 12:55:01,945 - INFO - Authentication (password) successful!
+2026-07-21 12:55:02,787 - WARNING - 192.168.12.133 - OSPF ISSUE
+2026-07-21 12:55:02,904 - WARNING - 192.168.12.133 - BGP DOWN
+2026-09-08 14:26:38,630 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-09-08 14:26:38,993 - INFO - Authentication (password) successful!
+2026-09-08 14:26:39,374 - INFO - 192.168.12.130 - OSPF OK
+2026-09-08 14:26:39,470 - WARNING - 192.168.12.130 - BGP DOWN
+2026-09-08 14:26:39,529 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-09-08 14:26:39,997 - INFO - Authentication (password) successful!
+2026-09-08 14:26:40,338 - INFO - 192.168.12.131 - OSPF OK
+2026-09-08 14:26:40,437 - WARNING - 192.168.12.131 - BGP DOWN
+2026-09-08 14:26:40,505 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-09-08 14:26:40,940 - INFO - Authentication (password) successful!
+2026-09-08 14:26:41,307 - INFO - 192.168.12.132 - OSPF OK
+2026-09-08 14:26:41,404 - WARNING - 192.168.12.132 - BGP DOWN
+2026-09-08 14:26:41,461 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-09-08 14:26:41,837 - INFO - Authentication (password) successful!
+2026-09-08 14:26:42,215 - INFO - 192.168.12.133 - OSPF OK
+2026-09-08 14:26:42,314 - WARNING - 192.168.12.133 - BGP DOWN
+2026-09-08 14:32:12,011 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-09-08 14:32:12,374 - INFO - Authentication (password) successful!
+2026-09-08 14:32:12,771 - INFO - 192.168.12.130 - OSPF OK
+2026-09-08 14:32:12,884 - WARNING - 192.168.12.130 - BGP DOWN
+2026-09-08 14:32:12,914 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-09-08 14:32:15,352 - INFO - Authentication (password) failed.
+2026-09-08 14:32:15,353 - ERROR - 192.168.12.131 - Authentication failed
+2026-09-08 14:32:15,377 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-09-08 14:32:15,815 - INFO - Authentication (password) successful!
+2026-09-08 14:32:16,198 - INFO - 192.168.12.132 - OSPF OK
+2026-09-08 14:32:16,318 - WARNING - 192.168.12.132 - BGP DOWN
+2026-09-08 14:32:16,349 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-09-08 14:32:16,728 - INFO - Authentication (password) successful!
+2026-09-08 14:32:17,107 - INFO - 192.168.12.133 - OSPF OK
+2026-09-08 14:32:17,207 - WARNING - 192.168.12.133 - BGP DOWN
