@@ -1,2 +1,2 @@
 # network-automation-labs
-Network Automation using Python and Netmiko, Ansible, REST API's, Nornir,
+Hands-on Python network automation projects using Netmiko. Practice BGP configuration, VLAN deployment, configuration backups, health checks, compliance validation, and multi-device automation in a lab environment.
